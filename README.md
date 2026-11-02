@@ -3,6 +3,8 @@
 > Projeto prático desenvolvido para o desafio da **DIO (Digital Innovation One)**: *App de Organização de Finanças Pessoais com Vibe Coding*.  
 > Criado e prototipado através do conceito de **Vibe Coding**, utilizando prompts estruturados (PRD) e ferramentas de IA generativa (Lovable e Copilot).
 
+🚀 **Acesse a aplicação no ar (Lovable):** [https://minnhas-contas.lovable.app/](https://minnhas-contas.lovable.app/)
+
 ---
 
 ## 📱 1. Resumo do Aplicativo: O que o FinVibe faz?
